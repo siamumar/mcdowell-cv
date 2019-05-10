@@ -109,7 +109,7 @@ Ligatures={TeX, NoCommon, NoDiscretionary}]{\mainfontface}
 	\def\aftermultilinesubsectionheaderspace{-6pt}
 	\def\afteremptysubsectionheaderspace{3pt}
 	\def\subsectionmargin{9pt}
-	\def\aftersubsectionspace{4pt}
+	\def\aftersubsectionspace{0pt}
 }
 
 %--------------------------------------------------------------------------------
